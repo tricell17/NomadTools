@@ -1,0 +1,353 @@
+[
+  {
+    "index": 0,
+    "name": "Norse-Online",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010DF5D8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17692120
+  },
+  {
+    "index": 0,
+    "name": "ROF",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010DF5D8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17692120
+  },
+  {
+    "index": 0,
+    "name": "armageddonRO",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010D5DA8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17653160
+  },
+  {
+    "index": 0,
+    "name": "IrishRO",
+    "description": null,
+    "hpAddress": "00E4CAF4",
+    "nameAddress": "00E461A0",
+    "hpAddressPointer": 14994164,
+    "nameAddressPointer": 14967200
+  },
+  {
+    "index": 0,
+    "name": "Ragnarok Online",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "0018E9B8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 1632696
+  },
+  {
+    "index": 0,
+    "name": "Falconclient",
+    "description": null,
+    "hpAddress": "01017F38",
+    "nameAddress": "0101A6E0",
+    "hpAddressPointer": 16875320,
+    "nameAddressPointer": 16885472
+  },
+  {
+    "index": 0,
+    "name": "2K23RO",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010DF5D8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17692120
+  },
+  {
+    "index": 0,
+    "name": "FreeRO",
+    "description": null,
+    "hpAddress": "0083E674",
+    "nameAddress": "0083E1B4",
+    "hpAddressPointer": 8644212,
+    "nameAddressPointer": 8642996
+  },
+  {
+    "index": 0,
+    "name": "AsiaticRO",
+    "description": null,
+    "hpAddress": "00E4CAF4",
+    "nameAddress": "00E4D768",
+    "hpAddressPointer": 14994164,
+    "nameAddressPointer": 14997352
+  },
+  {
+    "index": 0,
+    "name": "PROVALKYRIE",
+    "description": null,
+    "hpAddress": "01017F38",
+    "nameAddress": "0101A6E0",
+    "hpAddressPointer": 16875320,
+    "nameAddressPointer": 16885472
+  },
+  {
+    "index": 0,
+    "name": "PlayLoki",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010DF5D8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17692120
+  },
+  {
+    "index": 0,
+    "name": "DeathmatchRO",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010D5DA8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17653160
+  },
+  {
+    "index": 0,
+    "name": "Ret-RO",
+    "description": null,
+    "hpAddress": "011D1A04",
+    "nameAddress": "011D43EB",
+    "hpAddressPointer": 18684420,
+    "nameAddressPointer": 18695147
+  },
+  {
+    "index": 0,
+    "name": "BattleRO",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010DF5D8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17692120
+  },
+  {
+    "index": 0,
+    "name": "Conqueror RO",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010DF5D8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17692120
+  },
+  {
+    "index": 0,
+    "name": "CRO",
+    "description": null,
+    "hpAddress": "01131204",
+    "nameAddress": "01133BD8",
+    "hpAddressPointer": 18027012,
+    "nameAddressPointer": 18037720
+  },
+  {
+    "index": 0,
+    "name": "titoexe",
+    "description": null,
+    "hpAddress": "00E6E834",
+    "nameAddress": "00E6F4B0",
+    "hpAddressPointer": 15132724,
+    "nameAddressPointer": 15135920
+  },
+  {
+    "index": 0,
+    "name": "BloodbathRO",
+    "description": null,
+    "hpAddress": "01138DDC",
+    "nameAddress": "0113B7B0",
+    "hpAddressPointer": 18058716,
+    "nameAddressPointer": 18069424
+  },
+  {
+    "index": 0,
+    "name": "Valhalla-x",
+    "description": null,
+    "hpAddress": "01138DDC",
+    "nameAddress": "0113B7B0",
+    "hpAddressPointer": 18058716,
+    "nameAddressPointer": 18069424
+  },
+  {
+    "index": 0,
+    "name": "PlayLoki",
+    "description": null,
+    "hpAddress": "011D1A04",
+    "nameAddress": "011D43E8",
+    "hpAddressPointer": 18684420,
+    "nameAddressPointer": 18695144
+  },
+  {
+    "index": 0,
+    "name": "AlterRO",
+    "description": null,
+    "hpAddress": "01131204",
+    "nameAddress": "01133BD8",
+    "hpAddressPointer": 18027012,
+    "nameAddressPointer": 18037720
+  },
+  {
+    "index": 0,
+    "name": "client",
+    "description": null,
+    "hpAddress": "011D1A04",
+    "nameAddress": "011D43E8",
+    "hpAddressPointer": 18684420,
+    "nameAddressPointer": 18695144
+  },
+  {
+    "index": 0,
+    "name": "ROWorld",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010DF5D8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17692120
+  },
+  {
+    "index": 0,
+    "name": "Valhalla-x",
+    "description": null,
+    "hpAddress": "01138DDC",
+    "nameAddress": "0113B7B0",
+    "hpAddressPointer": 18058716,
+    "nameAddressPointer": 18069424
+  },
+  {
+    "index": 0,
+    "name": "GoodOldDays",
+    "description": null,
+    "hpAddress": "0146F28C",
+    "nameAddress": "01471CD8",
+    "hpAddressPointer": 21426828,
+    "nameAddressPointer": 21437656
+  },
+    {
+    "index": 0,
+    "name": "Noob RO",
+    "description": null,
+    "hpAddress": "01138DDC",
+    "nameAddress": "0113B7B0",
+    "hpAddressPointer": 18058716,
+    "nameAddressPointer": 18069424
+  },
+    {
+    "index": 0,
+    "name": "rom",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010DF5D8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17692120
+  },
+  {
+    "index": 0,
+    "name": "client",
+    "description": "WoV4Rtools",
+    "hpAddress": "0x011D1A04",
+    "nameAddress": "0x011D43E8",
+    "hpAddressPointer": 18684420,
+    "nameAddressPointer": 18695144
+  },
+  {
+    "index": 0,
+    "name": "CivilWarRO",
+    "description": null,
+    "hpAddress": "00E8E434",
+    "nameAddress": "00E90C00",
+    "hpAddressPointer": 15262772,
+    "nameAddressPointer": 15272960
+  },
+    {
+    "index": 0,
+    "name": "EndlessRO",
+    "description": null,
+    "hpAddress": "011D1A04",
+    "nameAddress": "011D43E8",
+    "hpAddressPointer": 18684420,
+    "nameAddressPointer": 18695144
+  },
+  {
+    "index": 0,
+    "name": "GOD EXTREME",
+    "description": null,
+    "hpAddress": "00F4942C",
+    "nameAddress": "00F4BD70",
+    "hpAddressPointer": 16028716,
+    "nameAddressPointer": 16039280
+  },
+  {
+    "index": 0,
+    "name": "ROAsgard",
+    "description": null,
+    "hpAddress": "01131204",
+    "nameAddress": "01133BD8",
+    "hpAddressPointer": 18684420,
+    "nameAddressPointer": 18695144
+  },
+  {
+    "index": 0,
+    "name": "Trinity2.0",
+    "description": null,
+    "hpAddress": "00E4CAE4",
+    "nameAddress": "00E4D758",
+    "hpAddressPointer": 14994148,
+    "nameAddressPointer": 14997336
+  },
+  {
+    "index": 0,
+    "name": "SaigoNoRagna",
+    "description": null,
+    "hpAddress": "01138DDC",
+    "nameAddress": "0113B7B0",
+    "hpAddressPointer": 18058716,
+    "nameAddressPointer": 18069424
+  },
+  {
+    "index": 0,
+    "name": "BattleRO",
+    "description": null,
+    "hpAddress": "0157EFE4",
+    "nameAddress": "01581C30",
+    "hpAddressPointer": 22540260,
+    "nameAddressPointer": 22551600
+  },
+  {
+    "index": 0,
+    "name": "OBSIDIAN-RO",
+    "description": null,
+    "hpAddress": "01138DDC",
+    "nameAddress": "0113B7B0",
+    "hpAddressPointer": 18058716,
+    "nameAddressPointer": 18069424
+  },
+  {
+    "index": 0,
+    "name": "AlphaRO",
+    "description": "Alpha Ragnarok Online",
+    "hpAddress": "01138DDC",
+    "nameAddress": "0113B7B0",
+    "hpAddressPointer": 18058716,
+    "nameAddressPointer": 18069424
+  },
+  {
+    "index": 0,
+    "name": "Ragnarok",
+    "description": "Vizta RO MMO",
+    "hpAddress": "01131204",
+    "nameAddress": "01133BD8",
+    "hpAddressPointer": 18027012,
+    "nameAddressPointer": 18037720
+  },
+  {
+    "index": 0,
+    "name": "Cyber",
+    "description": null,
+    "hpAddress": "01017F38",
+    "nameAddress": "0101A6E0",
+    "hpAddressPointer": 16875320,
+    "nameAddressPointer": 16885472
+  }
+]
